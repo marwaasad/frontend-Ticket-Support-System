@@ -7,7 +7,7 @@ This is a ticket support system designed for a publication house to streamline c
 
 ![SS1](https://github.com/marwaasad/frontend-Ticket-Support-System/assets/100716784/c824510c-2f23-4f3d-adf2-2becb92e7a51)
 ![SS2](https://github.com/marwaasad/frontend-Ticket-Support-System/assets/100716784/c0c15e55-9af4-4d75-a435-86e860f81431)
-![SS3](https://github.com/marwaasad/frontend-Ticket-Support-System/assets/100716784/a8c8584d-3cc6-41ee-bff9-daa8714edae0 | width=400)
-![SS4](https://github.com/marwaasad/frontend-Ticket-Support-System/assets/100716784/d297f52f-00b2-4175-b1fe-5544de3cde63 | width=400)
-![SS5](https://github.com/marwaasad/frontend-Ticket-Support-System/assets/100716784/388aeed3-8581-4ac0-b897-4fd0ceaf5987 | width=400)
-![SS6](https://github.com/marwaasad/frontend-Ticket-Support-System/assets/100716784/fafb670f-8cd7-41a6-a513-808e56d6f1f1 | width=400)
+<img src="https://github.com/marwaasad/frontend-Ticket-Support-System/assets/100716784/a8c8584d-3cc6-41ee-bff9-daa8714edae0" width="400"/>
+<img src="https://github.com/marwaasad/frontend-Ticket-Support-System/assets/100716784/d297f52f-00b2-4175-b1fe-5544de3cde63" width="400"/>
+<img src="https://github.com/marwaasad/frontend-Ticket-Support-System/assets/100716784/388aeed3-8581-4ac0-b897-4fd0ceaf5987" width="400"/>
+<img src="https://github.com/marwaasad/frontend-Ticket-Support-System/assets/100716784/fafb670f-8cd7-41a6-a513-808e56d6f1f1" width="400"/>
